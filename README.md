@@ -1,5 +1,5 @@
 # VENTA-POS
-Venta POS (A Point of Sale Program for a Clothing Store built using php and MySQL)
+Venta POS (A Point of Sale Program for a Clothing Store built using php and MySQLi)
 
 ## How to Install:
  1. Install the directory.
